@@ -11,9 +11,12 @@ Full Stack Developer
 *   ✉️  You can contact me at [suryamuthyala@yahoo.com](mailto:suryamuthyala@yahoo.com)
 *   🧠  I'm learning React and Containers
 *   🤝  I'm open to collaborating on Data Science projects
-*   ⚡  I'm a UX designer too<a href="https://www.twitter.com/suryateja027" target="_blank" rel="noreferrer"><img
+*   ⚡  I'm a UX designer too
+</br>
+<a href="https://www.twitter.com/suryateja027" target="_blank" rel="noreferrer"><img
                   src="https://img.shields.io/twitter/follow/suryateja027?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
-                /></a>
+                /></a></br>
+                
                 ### Skills<p align="left">
                                 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a>
                                 <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
