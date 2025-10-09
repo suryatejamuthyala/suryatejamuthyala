@@ -1,8 +1,8 @@
 # Hi 👋 My name is Surya Teja Muthyala
-## Full Stack Developer/Lead with AI and ML
+## Senior Technology Leader/Lead with AI and ML
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=0891B2&width=435&lines=Full+Stack+Developer;AI%2FML+Enthusiast;AWS+Certified+Professional;React+Native+Expert;10%2B+Years+Experience" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=0891B2&width=600&lines=Senior+Technology+Leader;AI%2FML+Innovation+Expert;Agentic+AI+%26+MCP+Framework+Specialist;Kong+API+Gateway+Architect;AWS+Certified+Professional;10%2B+Years+Experience" alt="Typing SVG" />
 </div>
 
 ---
@@ -14,21 +14,138 @@
 - 💼 **LinkedIn**: [linkedin.com/in/suryatejamuthyala](https://www.linkedin.com/in/suryatejamuthyala/)
 - 🐙 **GitHub**: [github.com/suryatejamuthyala](https://github.com/suryatejamuthyala)
 - 📊 **Stack Overflow**: [stackoverflow.com/cv/suryatejamuthyala](https://stackoverflow.com/cv/suryatejamuthyala)
+- ✍️ **Medium**: [medium.com/@suryatejamuthyala](https://medium.com/@suryatejamuthyala)
 - 🏆 **Certifications**: [youracclaim.com/users/surya-muthyala/badges](https://www.youracclaim.com/users/surya-muthyala/badges)
 
 ---
 
 ## 🚀 Professional Summary
 
-🎯 **Seasoned Full Stack Developer with 10+ years of experience** in UI/UX, front-end and back-end development across telecommunication, healthcare, and industrial automation industries.
+🎯 **Senior Technology Leader with 10+ years driving AI/ML innovation** specializing in Agentic AI frameworks, API Gateway architecture, and full-stack development across financial services, with deep expertise in building enterprise-grade platforms that integrate Generative AI, Multi-Agent Systems, and LLM technologies.
 
 ### 🌟 Key Highlights:
-- 🤖 **AI/ML Leadership**: Spearheading Generative AI, Graph Machine Learning, and Agentic AI initiatives using Anthropic Claude via Amazon Bedrock
-- 📱 **Cross-Platform Expert**: Proficient in React Native development with focus on performance, scalability, and clean architecture
-- 💼 **Financial Tech Specialist**: Built AI-powered Asset Management platforms integrating ESG data with BlackRock Aladdin
-- ☁️ **Cloud Architect**: Expert in AWS DevOps solutions, automation, and middleware integrations
-- 🏗️ **Enterprise Solutions**: Leading projects independently, collaborating with CTOs, product managers, and end-users
-- 🔧 **DevOps Automation**: Enhanced scripting with Ansible, Bitbucket, Celestial, Docker, and AWS ECS CI/CD pipelines
+- 🤖 **AI Enablement Specialist**: Leading AI transformation initiatives, coaching 50+ engineers on AI-assisted development with 75% adoption rate
+- 🔌 **MCP Framework Expert**: Architecting Model Context Protocol implementations converting legacy .NET APIs into MCP-compatible tools for Amazon Bedrock and Anthropic Claude
+- 🚪 **API Gateway Architect**: Developing custom Kong API Gateway plugins using Elixir for intelligent traffic control and agentic AI workflow monitoring (99.9% uptime)
+- 🤝 **Multi-Agent Systems**: Implementing A2A (Agent-to-Agent) and AG-UI protocols for autonomous portfolio management, risk analytics, and compliance validation
+- 📱 **Cross-Platform Expert**: Building React Native and React applications with modern frameworks (LangChain, AutoGen, DSPy)
+- 💼 **Financial Tech Specialist**: Architecting AI-powered Asset Management platforms processing high-volume financial data for Hedge Funds, ETFs, and Mutual Funds
+- ☁️ **Cloud Architect**: AWS Certified Professional with expertise in serverless architectures, containerization, and CI/CD optimization
+
+---
+
+## 📝 Latest Publication
+
+### 🎯 **Featured Article on Medium**
+<div align="center">
+<a href="https://medium.com/@suryatejamuthyala/building-bedrockflow-a-production-ready-conversational-ai-platform-with-aws-bedrock-phoenix-843362ff6cb7" target="_blank">
+<img src="https://img.shields.io/badge/Read_on_Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium Article" />
+</a>
+</div>
+
+#### 🚀 **"Building BedrockFlow: A Production-Ready Conversational AI Platform with AWS Bedrock + Phoenix"**
+
+A comprehensive technical deep-dive into building enterprise-grade conversational AI systems using:
+- 🤖 **AWS Bedrock** for LLM orchestration
+- ⚡ **Phoenix/Elixir** for high-concurrency distributed systems
+- 🔄 **MCP (Model Context Protocol)** integration patterns
+- 🏗️ **Real-time streaming architectures** for AI applications
+- 🔐 **Production-ready security and scalability** best practices
+
+📖 [**Read the full article →**](https://medium.com/@suryatejamuthyala/building-bedrockflow-a-production-ready-conversational-ai-platform-with-aws-bedrock-phoenix-843362ff6cb7)
+
+---
+
+## 🎯 Recent Projects & Innovations
+
+### 🤖 **AI Enablement & Agentic Framework Development** (2023-Present)
+<details open>
+<summary><b>Click to expand project details</b></summary>
+
+#### **MCP (Model Context Protocol) Implementation**
+- 🔌 Architected enterprise MCP framework converting legacy .NET Core APIs into MCP-compatible tools
+- 🤝 Enabled seamless integration with Amazon Bedrock and Anthropic Claude agents
+- ⚡ Achieved autonomous reasoning and execution capabilities with sub-second latency
+- 📊 Tracked 40% faster feature development and 30% reduction in bugs
+
+#### **Multi-Agent Systems Architecture**
+- 🔗 **A2A (Agent-to-Agent) Protocols**: Built distributed agent collaboration for portfolio analysis, risk assessment, and compliance validation
+- 💬 **AG-UI (Agent User Interaction) Protocol**: Created intuitive conversation flows reducing query resolution time by 45%
+- 🎯 Orchestrated multi-agent workflows across financial systems with microsecond coordination
+
+#### **Kong API Gateway Plugin Development**
+- ⚙️ Developed custom plugins using **Elixir** for AI-generated request routing
+- 🚦 Implemented intelligent traffic control for agentic AI workflows
+- 📈 Achieved 99.9% uptime with real-time monitoring capabilities
+- 🔐 Managed complete API lifecycle: OAuth2, JWT, mTLS, rate limiting, versioning
+
+#### **AI Adoption & Cultural Transformation**
+- 👨‍🏫 Coached 50+ engineers on AI-assisted development practices
+- 📚 Created comprehensive documentation and playbooks for AI tool usage
+- 📊 Established KPIs tracking: 40% productivity gains, 25% latency reduction
+- 🎯 Achieved 75% AI tool adoption rate across engineering teams within 6 months
+
+</details>
+
+### 💼 **AI-Powered Asset Management Platform** (2023-2024)
+<details>
+<summary><b>Click to expand project details</b></summary>
+
+- 🏦 Built intelligent portfolio creation system for Hedge Funds, ETFs, Mutual Funds, and Mortgages
+- 🤖 Integrated Generative AI for autonomous portfolio optimization and rebalancing
+- 📊 Implemented RAG framework for contextualized response synthesis
+- 🔍 Enhanced knowledge retrieval accuracy through semantic search and earnings transcript parsing
+- 🌍 Integrated ESG compliance and risk analytics with BlackRock Aladdin
+- 📈 Processed $billions in assets with real-time market data integration
+
+**Tech Stack**: AWS Bedrock, Anthropic Claude, LangChain, AutoGen, DSPy, React Native, .NET Core 6+, PostgreSQL
+
+</details>
+
+### 🔄 **Charles River Development (CRD) Platform Engineering** (2022-Present)
+<details>
+<summary><b>Click to expand project details</b></summary>
+
+- 🏗️ Served as Charles River Development Engineer for critical implementation programs
+- ⚙️ Performed complex CRIMS configurations for workflows, compliance rules, and data integrations
+- 📊 Architected data pipelines for traded products (Derivatives, Repo, Fixed Income, FX, Equities)
+- ✅ Achieved 99.9% data accuracy for regulatory submissions
+- 🤝 Collaborated with Treasury Data Management and Counterparty Capital Management teams
+- 📈 Optimized critical data flows for capital calculations and regulatory reporting
+
+**Tech Stack**: Charles River Development (CRD/CRIMS), Python, Java, Spring Boot, PostgreSQL, Kafka
+
+</details>
+
+### 💬 **Full-Stack LLM-Integrated Chatbot** (2023)
+<details>
+<summary><b>Click to expand project details</b></summary>
+
+- 🤖 Engineered conversational AI with real-time visual data representation
+- 📁 Implemented file upload support and document parsing capabilities
+- 🔄 Built responsive live data capture using React-Streaming Library and custom hooks
+- 🎨 Created modular finance-focused dashboards with DevExtreme
+- 📊 Integrated dynamic data grids pulling investment data from BlackRock Aladdin
+- ⚡ Achieved real-time response streaming with WebSocket connections
+
+**Tech Stack**: React, Express.js, AWS Lambda, Amazon Bedrock, Claude AI, DevExtreme, WebSockets
+
+</details>
+
+### 🗺️ **SWIFT Infrastructure & High-Volume Data Pipelines** (2020-2021)
+<details>
+<summary><b>Click to expand project details</b></summary>
+
+- 💰 Managed SWIFT infrastructure (Alliance Access, Gateway, HSMs) ensuring high reliability
+- 📨 Delivered high-volume financial data pipelines using ACI MTS and MMS
+- 🔄 Implemented message integrity validation with IBM MQ and RabbitMQ
+- 💸 Developed ISO 20022/15022 compliant applications with MX to MT conversions
+- 🔐 Integrated third-party compliance platforms (Lexis Nexis FircoSoft, Actimize)
+- ⚡ Processed millions of daily SWIFT transactions with zero downtime
+
+**Tech Stack**: SWIFT, Java, EXT JS, React, Volante VolPay, IBM MQ, Oracle, Unix Shell Scripting
+
+</details>
 
 ---
 
@@ -54,15 +171,16 @@
 
 #### 🎯 **Team Lead - Full Stack with AI/ML** | *Oct 2023 - Present*
 - 🤖 **AI Innovation Leader**: Spearheading Generative AI, Graph ML, and Agentic AI initiatives with autonomous reasoning
+- 🔌 **MCP Framework**: Architected Model Context Protocol implementations for enterprise AI integration
+- 🚪 **Kong Gateway Expert**: Developed custom Elixir plugins for intelligent API routing and traffic control
 - 📱 **Mobile Excellence**: Built cross-platform React Native apps for portfolio tracking and ESG analysis
-- 🔧 **Integration Specialist**: Developed Outlook add-in and Edge browser extension using SharePoint Framework (SPFx)
 - 💬 **Chatbot Architecture**: Engineered full-stack LLM-integrated chatbot with semantic search and real-time analytics
 - ☁️ **AWS Mastery**: Deployed scalable Express.js microservices with comprehensive AWS services integration
 - 🔐 **Security Expert**: Implemented enterprise-grade Kerberos authentication and JWT token management
 - 📊 **Data Engineering**: Automated ETL pipelines with AWS Glue, transforming datasets into Parquet format
-- 🎨 **Modern Frameworks**: Integrated LangChain, AutoGen, DSPy for goal-oriented Agentic AI development
 
 #### 🌱 **Operations/Sustainability (ESG) Engineer** | *Oct 2022 - Oct 2023*
+- 🏛️ **CRD Platform Support**: Supported Charles River Development platform configuration and optimization
 - 🐍 **Python Development**: Created REST APIs using Django and Django REST Framework
 - 📊 **Data Integration**: Worked with Bloomberg and Aladdin feeds, ESG, SFDR, and Sustainable Investment
 - ⚡ **Real-time Processing**: Implemented Kafka and AWS services for data processing
@@ -151,14 +269,16 @@
 
 ### 💻 **Programming Languages**
 <p align="left">
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
 <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
-<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+<img src="https://img.shields.io/badge/.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
 <img src="https://img.shields.io/badge/Elixir-4B275F?style=for-the-badge&logo=elixir&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" />
+<img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
 </p>
 
 ### 🎨 **Frontend Technologies**
@@ -166,19 +286,20 @@
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" />
+<img src="https://img.shields.io/badge/Blazor-512BD4?style=for-the-badge&logo=blazor&logoColor=white" />
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-<img src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white" />
-<img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" />
+<img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" />
 </p>
 
 ### ⚙️ **Backend & Frameworks**
 <p align="left">
+<img src="https://img.shields.io/badge/.NET_Core_Web_API-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+<img src="https://img.shields.io/badge/Phoenix-FD4F00?style=for-the-badge&logo=phoenixframework&logoColor=white" />
 <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
 <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
-<img src="https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot" />
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
 <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
 <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
 </p>
@@ -186,30 +307,45 @@
 ### 🗄️ **Databases**
 <p align="left">
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
 <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
 <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
 <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-<img src="https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white" />
+<img src="https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white" />
+<img src="https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white" />
 </p>
 
 ### ☁️ **Cloud & DevOps**
 <p align="left">
-<img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-<img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
-<img src="https://img.shields.io/badge/Microsoft_Azure-0089D0?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+<img src="https://img.shields.io/badge/Azure-0089D0?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 <img src="https://img.shields.io/badge/Kubernetes-326ce5?style=for-the-badge&logo=kubernetes&logoColor=white" />
 <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" />
+<img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" />
 <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
 </p>
 
 ### 🤖 **AI/ML & GenAI Tools**
 <p align="left">
 <img src="https://img.shields.io/badge/Amazon_Bedrock-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
 <img src="https://img.shields.io/badge/Anthropic_Claude-D4A574?style=for-the-badge" />
-<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+<img src="https://img.shields.io/badge/MCP_Protocol-0891B2?style=for-the-badge" />
+<img src="https://img.shields.io/badge/AutoGen-4B275F?style=for-the-badge" />
+<img src="https://img.shields.io/badge/DSPy-239120?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Azure_OpenAI-0089D0?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
+<img src="https://img.shields.io/badge/RAG_Frameworks-E97627?style=for-the-badge" />
+</p>
+
+### 🚪 **API Gateway & Microservices**
+<p align="left">
+<img src="https://img.shields.io/badge/Kong_Gateway-003459?style=for-the-badge&logo=kong&logoColor=white" />
+<img src="https://img.shields.io/badge/AWS_API_Gateway-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+<img src="https://img.shields.io/badge/Apigee-EA4335?style=for-the-badge" />
+<img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
+<img src="https://img.shields.io/badge/Istio-466BB0?style=for-the-badge&logo=istio&logoColor=white" />
 </p>
 
 ### 📊 **Data Visualization & Analytics**
@@ -217,38 +353,52 @@
 <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" />
 <img src="https://img.shields.io/badge/D3.js-F9A03C?style=for-the-badge&logo=d3.js&logoColor=white" />
 <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white" />
+<img src="https://img.shields.io/badge/DevExtreme-FF7200?style=for-the-badge" />
 </p>
 
 ### 🏦 **Financial & Industry Platforms**
-- 💼 **BlackRock Aladdin Studio & SDK**
-- 💰 **Finastra LoanIQ**
-- 📈 **Bloomberg Terminal Integration**
-- 🏛️ **SWIFT Alliance (Gateway, Access, Web Platform)**
-- 📊 **FIX 4.2 Protocol**
-- 🔍 **Lexis Nexis FircoSoft**
-- 🛣️ **AASHTOWare API**
+- 💼 **BlackRock Aladdin Studio & SDK** - Portfolio Management & Risk Analytics
+- 🏛️ **Charles River Development (CRD/CRIMS)** - Investment Management System
+- 💰 **Finastra LoanIQ** - Loan Origination & Servicing
+- 📈 **Bloomberg Terminal Integration** - Market Data & Analytics
+- 🏛️ **SWIFT Alliance (Gateway, Access, Web Platform)** - Financial Messaging
+- 📊 **FIX 4.2 Protocol** - Electronic Trading Systems
+- 🔍 **Lexis Nexis FircoSoft** - Sanctions Screening & Compliance
+- 🛣️ **AASHTOWare API** - Government Infrastructure Integration
+- 🔒 **Actimize** - Anti-Money Laundering & Fraud Detection
+- 💱 **ACI MTS & UPF** - High-Value Payment Processing
 
 ---
 
 ## 🏆 Key Achievements
 
-### 🎯 **Leadership & Innovation**
-- 🚀 **Led AI transformation** initiatives across enterprise platforms
-- 📱 **Pioneered cross-platform mobile solutions** for financial services
-- 🤖 **Implemented Agentic AI workflows** with autonomous decision-making capabilities
-- 🔧 **Streamlined DevOps processes** reducing deployment time by 60%
+### 🎯 **AI Innovation & Leadership**
+- 🚀 **Led AI transformation** coaching 50+ engineers with 75% adoption rate in 6 months
+- 🔌 **Pioneered MCP framework** implementation for enterprise-grade agentic AI systems
+- 🤖 **Architected multi-agent systems** with A2A and AG-UI protocols for autonomous operations
+- 📊 **Delivered measurable impact**: 40% faster development, 30% bug reduction, 25% latency improvement
+- 📚 **Published technical article** on building production-ready conversational AI platforms
 
 ### 💰 **Financial Technology Impact**
-- 📊 **Built AI-powered portfolio management** systems handling $billions in assets
-- 🌍 **Integrated ESG compliance** across multiple investment platforms
-- 💸 **Developed high-frequency trading systems** with microsecond latency
-- 🔐 **Enhanced security protocols** for SWIFT financial messaging
+- 📊 **Built AI-powered portfolio management** systems handling $billions in assets under management
+- 🏛️ **Engineered Charles River Development** solutions with 99.9% data accuracy for regulatory compliance
+- 💸 **Developed high-frequency trading systems** processing millions of daily SWIFT transactions
+- 🌍 **Integrated ESG compliance** across multiple investment platforms with BlackRock Aladdin
+- 🔐 **Enhanced security protocols** achieving zero security incidents over 18-month period
 
-### ☁️ **Cloud & Scalability**
-- 🏗️ **Architected serverless solutions** supporting 10M+ daily transactions
-- 📈 **Optimized AWS infrastructure** reducing operational costs by 40%
-- 🔄 **Implemented zero-downtime deployments** across multiple environments
-- 📊 **Built real-time analytics pipelines** processing TB of data daily
+### ☁️ **Cloud & Scalability Excellence**
+- 🏗️ **Architected serverless solutions** supporting 10M+ daily requests with sub-100ms p99 latency
+- 📈 **Optimized Kong API Gateway** infrastructure achieving 99.9% uptime for agentic AI workflows
+- 🔄 **Implemented zero-downtime deployments** with blue-green strategies across distributed systems
+- 📊 **Built real-time analytics pipelines** processing TB of financial data daily with AWS Glue
+- 💡 **Reduced operational costs** by 40% through strategic cloud optimization
+
+### 🛠️ **Technical Innovation**
+- ⚡ **Developed custom Elixir plugins** for Kong API Gateway with intelligent traffic control
+- 🔗 **Implemented OAuth2, JWT, mTLS** security achieving industry-leading protection standards
+- 📱 **Built cross-platform React Native apps** for iOS/Android with 95% code sharing
+- 🎨 **Modernized UI architectures** migrating to Helix UI-based React reducing development time by 30%
+- 🔄 **Automated ETL pipelines** transforming diverse datasets into Parquet format for scalable analytics
 
 ---
 
@@ -272,36 +422,7 @@
 
 ---
 
-## 🌐 Connect With Me
-
-<p align="center">
-<a href="https://www.linkedin.com/in/suryatejamuthyala" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-</p>
-
----
-
 ## 🎯 Current Focus
 
-- 🤖 **Advancing Agentic AI** and multi-modal intelligence systems
-- 📱 **Enhancing React Native** performance and scalability
-- ☁️ **Exploring serverless architectures** with AWS Lambda and containers
-- 🔍 **Researching GenAI applications** in financial services
-- 🌱 **Mentoring teams** on modern full-stack development practices
-
----
-
-<div align="center">
-
-### 💡 *"Transforming Ideas into Intelligent Solutions"*
-
-**Available for collaboration on innovative projects involving AI/ML, Financial Technology, and Enterprise Solutions**
-
-</div>
-
----
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=suryatejamuthyala&style=for-the-badge&color=0891b2" alt="Profile Views" />
-</div>
+- 🤖 **Advancing Agentic AI** with MCP framework implementations and multi-modal intelligence systems
+- 🔌 **Building production-ready AI platforms** using AWS Bedrock, Phoenix
