@@ -425,4 +425,72 @@ A comprehensive technical deep-dive into building enterprise-grade conversationa
 ## 🎯 Current Focus
 
 - 🤖 **Advancing Agentic AI** with MCP framework implementations and multi-modal intelligence systems
-- 🔌 **Building production-ready AI platforms** using AWS Bedrock, Phoenix
+- 🔌 **Building production-ready AI platforms** using AWS Bedrock, Phoenix/Elixir, and Claude AI
+- 🚪 **Developing Kong API Gateway plugins** for intelligent traffic control and AI workflow orchestration
+- 📱 **Enhancing React Native** performance with modern architecture patterns and optimization techniques
+- ☁️ **Exploring serverless architectures** with AWS Lambda, EKS, and container orchestration
+- 🔍 **Researching GenAI applications** in financial services, portfolio management, and risk analytics
+- 📝 **Writing technical content** sharing insights on AI/ML, distributed systems, and cloud architecture
+- 🌱 **Mentoring engineering teams** on AI-assisted development, API design, and modern full-stack practices
+- 🔗 **Contributing to open-source** projects in the AI/ML and financial technology space
+
+---
+
+## 📚 Featured Content
+
+### 📝 **Medium Blog**
+<div align="center">
+<a href="https://medium.com/@suryatejamuthyala" target="_blank">
+<img src="https://img.shields.io/badge/Follow_on_Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium Profile" />
+</a>
+</div>
+
+**Latest Articles:**
+- 🚀 [Building BedrockFlow: Production-Ready Conversational AI with AWS Bedrock + Phoenix](https://medium.com/@suryatejamuthyala/building-bedrockflow-a-production-ready-conversational-ai-platform-with-aws-bedrock-phoenix-843362ff6cb7)
+
+*Topics: Agentic AI, AWS Bedrock, Elixir/Phoenix, MCP Protocol, Distributed Systems, Real-time Streaming*
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+<a href="https://www.linkedin.com/in/suryatejamuthyala" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://medium.com/@suryatejamuthyala" target="_blank">
+<img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
+</a>
+<a href="https://github.com/suryatejamuthyala" target="_blank">
+<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="https://stackoverflow.com/cv/suryatejamuthyala" target="_blank">
+<img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" />
+</a>
+<a href="mailto:stmuthyala@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+</p>
+
+---
+
+<div align="center">
+
+### 💡 *"Transforming Ideas into Intelligent Solutions Through AI Innovation"*
+
+**Open to collaboration on innovative projects involving:**
+- 🤖 Agentic AI & Multi-Agent Systems
+- 🔌 MCP Protocol & API Gateway Architecture
+- 💼 Financial Technology & Enterprise Solutions
+- ☁️ Cloud-Native & Serverless Architectures
+- 📱 Cross-Platform Mobile Development
+
+📧 **Contact**: stmuthyala@gmail.com | 📱 507-338-TEJA (8352)
+
+</div>
+
+---
+
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=suryatejamuthyala&style=for-the-badge&color=0891b2" alt="Profile Views" />
+</div>
